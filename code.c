@@ -1,4 +1,4 @@
 #include<stdio.h.>
 void main(){
-printf("Hello universe");
+printf("Let's move on from universe to real life");
 }
